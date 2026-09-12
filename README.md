@@ -20,4 +20,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0645-set-mismatch](https://github.com/sourabh687/Leatcode-solutions/tree/main/0645-set-mismatch/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/sourabh687/Leatcode-solutions/tree/main/0061-rotate-list/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/sourabh687/Leatcode-solutions/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
